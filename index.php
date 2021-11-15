@@ -9,10 +9,10 @@
     <body>
         <?php include "includes/header.php" ?>
 
-        <section>
+        <main class="content">
           <h1>Hello, World!</h1>
           <p>How do you do?</p>
-        </section>
+        </main>
 
         <?php include "includes/footer.php" ?>
         <?php include "includes/scripts.php" ?>
